@@ -8,7 +8,12 @@ Pong Game is a classic arcade game implemented in Python using the Pygame librar
 - Simple and intuitive design
 
 # Screenshots
-<img width="697" alt="Screenshot 2023-10-19 at 18 53 26" src="https://github.com/adrivas12/Pong-Game/assets/88084673/a824bd0f-60d1-4e8b-966f-7431e3df393d">
-<img width="697" alt="Screenshot 2023-10-19 at 18 53 44" src="https://github.com/adrivas12/Pong-Game/assets/88084673/7a944fd3-be7c-4d70-967a-652b1c830e01">
-<img width="701" alt="Screenshot 2023-10-19 at 18 53 58" src="https://github.com/adrivas12/Pong-Game/assets/88084673/409a3afb-2cf5-4b6c-8a0d-5224c1479ad5">
-<img width="705" alt="Screenshot 2023-10-19 at 18 54 22" src="https://github.com/adrivas12/Pong-Game/assets/88084673/06a4a4fc-402a-4efc-a124-8a2e9e9003cf">
+
+<p align="center">
+<img width="650" alt="Screenshot 2023-10-19 at 19 02 30" src="https://github.com/adrivas12/Pong-Game/assets/88084673/d31f6129-0076-48eb-b1e4-457cd4664c9b">
+Initial Window at the start of the game.
+<img width="650" alt="Screenshot 2023-10-19 at 19 02 46" src="https://github.com/adrivas12/Pong-Game/assets/88084673/4bf68738-40da-461e-a9d2-613167d54ccc">
+Bouncing off of the walls 
+<img width="650" alt="Screenshot 2023-10-19 at 19 03 30" src="https://github.com/adrivas12/Pong-Game/assets/88084673/ee2c554e-f25e-4f86-88da-b96dc0f2df2e">
+  Player 1 won the game, after this display the game will be resetted.
+</p>
